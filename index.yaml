@@ -3,7 +3,7 @@ entries:
   nginx:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-11-24T22:47:16.6133808+08:00"
+    created: "2024-11-24T23:06:52.8212051+08:00"
     description: A Helm chart for Kubernetes
     digest: aacf15b6ccd9c7ceeab657227d64562f57bb97de02758d3c193a6a7251c4f97c
     name: nginx
@@ -11,4 +11,15 @@ entries:
     urls:
     - nginx-0.1.0.tgz
     version: 0.1.0
-generated: "2024-11-24T22:47:16.6123011+08:00"
+  snowflake-app-chat:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-11-24T23:06:52.8222179+08:00"
+    description: A Helm chart for Kubernetes
+    digest: e20fed970ee3fccb69a640ae1c90ecce214d01bc71427006798eb31d8c16b587
+    name: snowflake-app-chat
+    type: application
+    urls:
+    - snowflake-app-chat-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-11-24T23:06:52.8206886+08:00"
